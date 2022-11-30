@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohamkainth
 - 👀 I’m interested in javascript , python , and ethical hacking 
 - 🌱 I’m currently learning  java and ethical hacking 
-- 💞️ I’m looking to collaborate on nobody
+- 💞️ I’m looking to collaborate with nobody
 - 📫 How to reach me - mail me on - sohamkainth@gmail.com
 
 <!---
